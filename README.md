@@ -1,7 +1,7 @@
 Hi, I’m Jonas Kramer
 I'm interested in 3D printing and Slicer Software.
 I’m currently learning how to programm a Slicer Software.
-I’m looking to collaborate on 3D printing company.
+I’m looking to collaborate ...
 How to reach me ...
 
 <!---
